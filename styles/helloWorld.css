@@ -1,4 +1,21 @@
+body {
+  background-color: #e3dc90;
+}
+
 h1 {
-  color: rgba(187,191,194,.5);
+  color: #ff0000;
+  font-size: 40px;
+  margin-left: 100px;
+  background-color: #71d780;
+  background-size: cover;
+
+}
+
+p {
+  color: #000000;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  background-color: #e3dc90;
 
 }
