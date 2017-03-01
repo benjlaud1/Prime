@@ -5,17 +5,17 @@ body {
 h1 {
   color: #ff0000;
   font-size: 40px;
-  margin-left: 100px;
+  text-align: center;
   background-color: #71d780;
-  background-size: cover;
+  background-position: center;
 
 }
 
 p {
-  color: #000000;
+  color: inherit;
   font-family: sans-serif;
   font-weight: lighter;
   font-size: 18px;
-  background-color: #e3dc90;
+  background-color: inherit;
 
 }
